@@ -9,7 +9,7 @@ This source code is used to build python3 environment by cmake.
 * intel REALSENSE D435i
 ## Building From Source
 ```
-$ git clone https://github.com/jetsonhacksnano/installLibrealsense  
+$ git clone https://github.com/houthlab/installRealSenseSDK  
 $ cd installLibrealsense  
 $ ./installLibrealsense.sh  
 $ ./buildLibrealsense.sh  
